@@ -1,4 +1,4 @@
-# .github
+# Unicollege (IT & Programming) 2024 - Coursework and Related Projects
 Parent organisation to all my source code, files, and other works created for or alongside my 2024 Unicollege (IT & Programming) studies.
 This organisation where I keep all my code, classwork, coursework, projects, scripts, and any/all other source code or files written during (or related to) my Unicollege (IT & Programming) studies.
 All files, repositories, and anything else posted to this organisation is posted here for my own personal use, organisation, backup, and/or progress monitoring. It is not intended for public viewing or use.
