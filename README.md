@@ -9,7 +9,7 @@ I expressly reserve all rights to the source code, projects, and other files in 
 This does not extend to work created by other individuals or organisations, who maintain exclusive rights over their own work. Which may happen to be
 referenced by, included in or along side, and/or copied to this organisation.
 
-# Use of the works
+# Use of Works
 Any use of the files, source code, projects, repositories, or other works belonging to this organisation is expressly forbidden without prior consent, and knowledge of intended use.
 At any point in the future (1st of January, 2025, or later), it's possible the works belonging to this organisation will no longer be of significant importance to me, or my fellow peers.
 While still potentially proving useful to others, who may wish to learn from, adapt, or otherwise use said works. Should this be this case, I may waive my rights to the works belonging to this organisation, and
